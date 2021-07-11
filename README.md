@@ -8,6 +8,6 @@
 3. Delete a todo when its completed
 
 ## Technologies Used :
-⋅⋅* HTML
-⋅⋅* CSS 
-⋅⋅* Vanilla JS ( DOM API) 
+⋅⋅* HTML.
+⋅⋅* CSS.
+⋅⋅* Vanilla JS ( DOM API).
